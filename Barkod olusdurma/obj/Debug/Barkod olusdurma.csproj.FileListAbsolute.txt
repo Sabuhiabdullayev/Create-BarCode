@@ -1,0 +1,13 @@
+D:\programs\Barkod olusdurma\Barkod olusdurma\bin\Debug\Barkod olusdurma.exe.config
+D:\programs\Barkod olusdurma\Barkod olusdurma\bin\Debug\Barkod olusdurma.exe
+D:\programs\Barkod olusdurma\Barkod olusdurma\bin\Debug\Barkod olusdurma.pdb
+D:\programs\Barkod olusdurma\Barkod olusdurma\bin\Debug\Zen.Barcode.Core.dll
+D:\programs\Barkod olusdurma\Barkod olusdurma\obj\Debug\Barkod olusdurma.csproj.AssemblyReference.cache
+D:\programs\Barkod olusdurma\Barkod olusdurma\obj\Debug\Barkod olusdurma.csproj.SuggestedBindingRedirects.cache
+D:\programs\Barkod olusdurma\Barkod olusdurma\obj\Debug\Barkod_olusdurma.Form1.resources
+D:\programs\Barkod olusdurma\Barkod olusdurma\obj\Debug\Barkod_olusdurma.Properties.Resources.resources
+D:\programs\Barkod olusdurma\Barkod olusdurma\obj\Debug\Barkod olusdurma.csproj.GenerateResource.cache
+D:\programs\Barkod olusdurma\Barkod olusdurma\obj\Debug\Barkod olusdurma.csproj.CoreCompileInputs.cache
+D:\programs\Barkod olusdurma\Barkod olusdurma\obj\Debug\Barkod olusdurma.csproj.CopyComplete
+D:\programs\Barkod olusdurma\Barkod olusdurma\obj\Debug\Barkod olusdurma.exe
+D:\programs\Barkod olusdurma\Barkod olusdurma\obj\Debug\Barkod olusdurma.pdb
